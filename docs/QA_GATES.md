@@ -77,7 +77,13 @@ new source bug before the chosen out-point.
 
 - Claims are distinguishable from verified facts.
 - Generated or reconstructed material is continuously labeled where necessary.
-- Real mouths are not altered to fabricate English speech.
+- A faceless format means no recurring on-camera host. It does not prohibit real
+  case participants, interview subjects, witnesses, silhouettes, or body-only
+  documentary interview compositions.
+- AI-assisted English dubbing or lip-sync is allowed only when the producer has
+  explicitly chosen it, the translated meaning is verified, the original source
+  is preserved in the manifest, and the altered excerpt is continuously labeled
+  `AI-ASSISTED ENGLISH DUB`.
 - Real people are not renamed without an explicit editorial reason and prominent disclosure.
 - No generated visual is allowed to imply a nonexistent piece of evidence.
 
