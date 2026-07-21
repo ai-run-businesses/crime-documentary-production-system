@@ -72,3 +72,35 @@ body, confession, discovery, or piece of evidence as if it were captured footage
 - Keep the subject and evidentiary details clear.
 - Collision-test captions with lower-thirds and source-native timestamps in the
   final composite rather than approving each layer separately.
+
+## Translated and lipsynced archival speech
+
+Treat translated speech as an evidentiary transformation, not a cosmetic audio
+replacement. Use it only when the production owner has explicitly approved the
+experiment and the original-language source remains traceable.
+
+Before rendering:
+
+1. Lock a human-reviewed translation from the source-language transcript.
+2. Verify every pronoun, name, number, negation, relationship, and modal verb.
+3. Preserve the speaker's meaning without adding motive, certainty, or emotion.
+4. Allocate enough picture time for the entire translated thought. Never speed,
+   truncate, or cut away merely to fit a predetermined slot.
+
+After rendering:
+
+- independently transcribe the final English audio and compare it with the
+  locked translation;
+- reject any subject, pronoun, negation, name, number, or factual drift;
+- sample lips, teeth, tongue, cheeks, and jaw densely throughout the altered
+  excerpt rather than checking only the in- and out-frames;
+- rerun the source-text sweep because lipsync or reframing may reveal previously
+  hidden captions, bugs, or edge fragments;
+- keep an explicit `AI-ASSISTED ENGLISH DUB` label visible for exactly the altered
+  interval, and remove it immediately when authentic audio or narration resumes;
+- keep the unaltered source, locked translation, generated voice file, final
+  lipsync, and verification transcript together in the evidence package.
+
+Prefer a licensed stock voice. Do not clone or imitate the real speaker's voice.
+The label communicates the transformation; narration should not stop the story
+to repeat a long disclaimer.

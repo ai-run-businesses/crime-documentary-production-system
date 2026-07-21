@@ -59,7 +59,11 @@ Read `references/self-learning.md` when feedback or analytics should update the 
 - Do not leave unrelated source captions, Chinese text, broadcaster bugs, app UI,
   or another creator's overlays in the final frame.
 - Do not use a full-screen title card when an overlay on relevant moving footage works.
-- Do not alter a real person's mouth to fabricate translated speech.
+- Do not alter a real person's mouth to fabricate speech. A translated-lipsync
+  experiment is allowed only with explicit production-owner approval, a locked
+  faithful translation, a non-imitative licensed voice, continuous on-screen
+  labeling, and the post-render verification gate in
+  `references/visual-and-source-qa.md`.
 - Do not present generated footage as case evidence.
 - Do not narrate long disclaimers; use precise visual labels, sourcing notes, or the description.
 
