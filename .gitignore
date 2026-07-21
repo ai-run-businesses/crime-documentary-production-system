@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+downloads/
+reference-videos/
+exports/
+*.mp4
+*.mov
+*.m4s
+*.wav
+*.mp3

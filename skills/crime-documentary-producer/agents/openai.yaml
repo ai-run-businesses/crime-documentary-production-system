@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crime Documentary Producer"
+  short_description: "Build evidence-led faceless crime documentaries"
+  default_prompt: "Use $crime-documentary-producer to plan, edit, and QA an evidence-led faceless crime documentary."
