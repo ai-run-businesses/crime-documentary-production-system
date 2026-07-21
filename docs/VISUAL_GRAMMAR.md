@@ -11,6 +11,24 @@ Use the highest available layer that serves the beat:
 5. Clearly labeled generic reconstruction.
 6. Atmosphere only when no more specific visual exists and the beat is transitional.
 
+## Four-layer crime-story system
+
+For narration-led crime stories, plan the episode across four distinct layers:
+
+1. **Primary evidence:** surveillance, calls, interviews, court footage,
+   documents, timestamps, and official recordings.
+2. **Human archive:** victims, suspects, relatives, investigators, family footage,
+   workplaces, homes, and ordinary-life context.
+3. **Explanatory editorial:** maps, routes, timelines, layouts, person cards,
+   relationship diagrams, comparisons, and highlighted records.
+4. **Bounded reconstruction:** clearly labeled visualization of an unrecorded
+   place, movement, procedure, or sequence.
+
+The first two layers establish proof and human stakes. The third explains how
+facts relate. The fourth fills spatial or procedural gaps without inventing
+evidence. Do not replace a missing higher layer with generic atmosphere when an
+explanatory graphic would answer the viewer's actual question.
+
 ## Moving picture under narration
 
 Default to relevant motion under narration. The motion can be quiet:
@@ -96,3 +114,14 @@ Not allowed:
 
 Label `VISUAL RECONSTRUCTION` or `ENHANCED ARCHIVAL FOOTAGE` unobtrusively for
 the full duration when the distinction could matter.
+
+Generated reconstruction should answer at least one concrete question:
+
+- who was where;
+- which route or sightline was possible;
+- what object or quantity changed;
+- what procedural action occurred;
+- how two verified points in the timeline connect.
+
+If it only supplies a tape recorder, empty corridor, anonymous evidence folder,
+or generic crime mood, it is not doing enough narrative work.

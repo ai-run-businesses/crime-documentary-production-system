@@ -59,6 +59,15 @@ Recommended structure:
 10. Breakthrough and consequence.
 11. Recontextualize the opening statement.
 
+For narration-led crime documentaries, expand this into a repeated story loop:
+
+> human context → provisional explanation → evidence test → contradiction → local
+> payoff → deeper question
+
+The narration is the causal spine. Do not use the bodycam model in which narration
+only bridges long raw encounters unless a particular recorded exchange genuinely
+carries that beat.
+
 ## Stage 4 — Narration pass
 
 Every sentence must perform one function:
@@ -125,6 +134,10 @@ No shot enters the edit without a function.
 - Keep exact text and typography in post-production, never inside a generated plate.
 - Label reconstruction continuously and keep it visually distinct from source evidence.
 - Never synthesize a real person's speech or lip movement in evidentiary footage.
+- Use generated or editorial visuals to make verified space, sequence, quantity,
+  or relationships legible. Do not generate atmosphere merely to avoid a still.
+- Treat primary evidence, human archive, explanatory editorial, and bounded
+  reconstruction as separate layers in the paper edit.
 
 ## Stage 8 — Sound
 
