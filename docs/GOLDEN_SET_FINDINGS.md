@@ -7,6 +7,11 @@
 | 48 Hours — The Setup Murder of Kristil Krug | https://www.youtube.com/watch?v=poEm6LhKdKo | Full audio/subtitles, first 90 seconds at 0.5-second sampling, full-video interval frames, ending |
 | 60 Minutes Australia — Why did Henri van Breda murder his family? | https://www.youtube.com/watch?v=XzzP1ui_aGk | Full audio/subtitles, first 90 seconds at 0.5-second sampling, full-video interval frames, ending |
 | Explore With Us — Detective Realizes The Witness Is Actually The Killer | https://www.youtube.com/watch?v=cEduqws4WR0 | Full audio/subtitles, first 90 seconds at 0.5-second sampling, full-video interval frames, ending |
+| EWU — 6-Year-Old Leads Cops to Her Secret Prison | https://www.youtube.com/watch?v=fsL0ag9ySao | Full audio/subtitles, first 45 seconds at 1-second sampling, full-video interval frames, scene changes, ending |
+| Beyond Evil — Daughter Discovers Her Ex-Boyfriend Just Killed Her Dad | https://www.youtube.com/watch?v=RIUbbyVS4Po | Full audio/subtitles, first 45 seconds at 1-second sampling, full-video interval frames, scene changes, ending |
+| JCS — How To Interrogate a Narcissist | https://www.youtube.com/watch?v=KnyERpdX_0g | Full audio/subtitles, first 45 seconds at 1-second sampling, full-video interval frames, scene changes, ending |
+| Truly Criminal — The Story That Fell Apart | https://www.youtube.com/watch?v=yJNmZelMzu4 | Full audio/subtitles, first 45 seconds at 1-second sampling, full-video interval frames, scene changes, ending |
+| dreading — Banfield Case | https://www.youtube.com/watch?v=oAwhuTccgl0 | Full audio/subtitles, first 45 seconds at 1-second sampling, full-video interval frames, scene changes, ending |
 
 The findings below separate direct observation from inference.
 
@@ -53,6 +58,35 @@ Inferred:
 
 - Raw speech is a high-value retention device when it forms a complete conflict turn.
 - The narration earns its place by interpreting what changes between clips.
+
+## Faceless YouTube crime study
+
+Observed, high confidence:
+
+- “Faceless” means no recurring on-camera host. These videos remain visually
+  human: victims, suspects, relatives, investigators, interviews, searches,
+  courtrooms, surveillance, and family photographs dominate the frame.
+- EWU opens with roughly 27 seconds of escalating raw proof before narration.
+- Beyond Evil opens on an ordinary police interaction, then states the specific
+  near-future reversal before cross-cutting surveillance and police footage.
+- JCS lets raw behavior develop before analyzing it; it does not cut consequential
+  exchanges merely to achieve a faster visual cadence.
+- dreading demonstrates the economical version of this grammar: relevant bodycam
+  can keep moving beneath a long narration passage instead of being replaced by
+  static sentence cards.
+- Truly Criminal uses people-rich archival and cinematic context to move from a
+  polished public life toward the hidden contradiction.
+- A recent Disturban sample contained a visible host and was removed from the
+  faceless primary set. Channel labels must be verified at artifact level.
+
+Inferred:
+
+- The strongest scalable format is not the most cinematic one. It is the one that
+  secures a specific promise, shows proof early, and continues changing evidence
+  state without losing human presence.
+- A long standalone brand film before case value is inconsistent with the sampled
+  YouTube leaders. Branding should follow the cold open and remain integrated with
+  moving case imagery; test a 5–8 second version against longer cuts.
 
 ## Shared production grammar
 
