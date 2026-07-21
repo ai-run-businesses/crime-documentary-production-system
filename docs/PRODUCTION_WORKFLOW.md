@@ -143,6 +143,10 @@ No shot enters the edit without a function.
 
 - Original speech and room tone take priority.
 - Use music as an evolving pressure curve, not an uninterrupted wallpaper loop.
+- Lock picture and dialogue before generating music; compose to the exact ending
+  frame and specify BPM, rhythmic engine, motif, density changes and ending sting.
+- Compare at least three full picture-sync auditions at equal integrated loudness.
+  Select the least aggressive cue that still creates forward pressure.
 - Duck music for low-level dialogue only when intelligibility requires it.
 - Remove music before a crucial raw line or final factual sentence when silence adds weight.
 - Use transition sound to connect spaces sparingly; do not decorate every cut.

@@ -44,6 +44,8 @@ research caveats for story logic.
 
 Read `references/story-and-paper-edit.md` before selecting or restructuring a case.
 Read `references/visual-and-source-qa.md` before building or reviewing picture.
+Read `references/music-and-sound.md` before generating, replacing, or approving
+music for a cold open, brand ident, or episode.
 Read `references/self-learning.md` when feedback or analytics should update the workflow.
 
 ## Hard rules

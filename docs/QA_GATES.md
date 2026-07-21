@@ -80,6 +80,10 @@ new source bug before the chosen out-point.
 - No silent tail or missing channel.
 - Narration, dialogue, music, and effects remain intelligible on laptop speakers.
 - Music has a beginning, progression, and ending; it does not loop mechanically.
+- Brand and cold-open music was selected from at least three equal-loudness
+  picture-sync auditions, not from prompt text or standalone loudness.
+- The cue does not resemble generic ambient/corporate underscore, wait too long
+  to become interesting, mask the 1–4 kHz speech band, or exaggerate danger.
 - Abrupt picture transitions use an audio bridge or explanatory sentence when needed.
 - Silence is intentional and time-coded in the paper edit.
 
