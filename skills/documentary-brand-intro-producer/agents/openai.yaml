@@ -1,0 +1,4 @@
+interface:
+  display_name: "Documentary Brand Intro Producer"
+  short_description: "Build and lock premium documentary brand intros"
+  default_prompt: "Use $documentary-brand-intro-producer to create or QA a reusable documentary brand intro."

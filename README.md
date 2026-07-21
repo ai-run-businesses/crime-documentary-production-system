@@ -32,6 +32,8 @@ then assigns each spoken beat a moving, relevant visual.
 - `templates/PAPER_EDIT.md` — shot-level planning template.
 - `learning/LEARNING_LOG.md` — observations and rule-promotion history.
 - `skills/crime-documentary-producer` — installable Codex skill.
+- `skills/documentary-brand-intro-producer` — creates, locks, reuses, and QA-checks
+  recurring documentary channel intros.
 
 ## Current reference set
 
