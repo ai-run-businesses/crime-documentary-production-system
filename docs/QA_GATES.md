@@ -5,6 +5,8 @@ An export fails if any hard gate fails.
 ## Story gate
 
 - The first 30 seconds contain a complete human turn or legible event.
+- The cold open supplies raw proof, an intelligible contradiction, or a specific
+  near-future reversal before any standalone brand sequence.
 - The hook creates one clear unanswered question without summarizing the whole case.
 - Every transition changes time, place, evidence, claim, or story state.
 - Narration explains why a transition occurs when picture alone cannot.
@@ -44,6 +46,9 @@ new source bug before the chosen out-point.
 - An information shot remains long enough to identify, read, and understand.
 - Generated motion has an action or state change, not just parallax.
 - Narration normally sits over relevant moving footage.
+- Do not replace a tense continuous raw exchange merely to increase cut frequency.
+- Empty rooms, generic evidence objects, and abstract crime imagery cannot substitute
+  for available people, actions, places, or records.
 
 ## Graphics gate
 
@@ -93,3 +98,5 @@ new source bug before the chosen out-point.
 - No black flash, freeze, missing frame, truncated line, or accidental one-second card.
 - Contact sheet inspected at regular intervals and every scene boundary.
 - Entire video watched once with sound and once muted; audio listened to once without picture.
+- Review the first 45 seconds once picture-only and once audio-only; both passes must
+  communicate an intelligible promise rather than channel branding alone.
