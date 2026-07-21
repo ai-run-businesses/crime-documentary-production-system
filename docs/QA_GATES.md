@@ -62,6 +62,11 @@ new source bug before the chosen out-point.
 
 - Consequential speech is not cut mid-sentence.
 - Translation preserves meaning and original audio remains audible where appropriate.
+- Before dubbing or lip-sync, compare the exact source range, the source-language
+  transcript/STT, and the final translated performance line. If the translated
+  line contains a stronger fact, emotion, certainty, or phrase not recoverable
+  from the source, the segment fails until a bilingual listener approves or the
+  wording is narrowed.
 - Captions cover every essential line, including emergency calls and cross-talk.
 - Caption baseline stays clear of the subject and player-safe bottom area.
 - Check caption handoffs frame by frame at every narration start and source-audio
@@ -91,6 +96,17 @@ new source bug before the chosen out-point.
   `AI-ASSISTED ENGLISH DUB`.
 - Real people are not renamed without an explicit editorial reason and prominent disclosure.
 - No generated visual is allowed to imply a nonexistent piece of evidence.
+
+## Generative-plate gate
+
+- Inspect generated picture plates before program typography is composited.
+- Reject pseudo-letters, numbers, labels, emblems and display text even when they
+  are too small to read as a coherent word.
+- Prefer regeneration or a compositionally honest crop that removes the entire
+  defective physical region. Do not cover a central defect with a blur/mosaic or
+  unexplained censor block.
+- Preserve already-approved shots when one sub-shot fails; rerun the smallest
+  independent unit rather than regenerating a whole montage.
 
 ## Export gate
 
