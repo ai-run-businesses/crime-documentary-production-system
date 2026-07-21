@@ -34,6 +34,10 @@ Watch the export frame by frame around every source change. Fail on any visible:
 - partially cropped text fragment;
 - untracked AI watermark or generated pseudo-text.
 
+Do not approve a source excerpt from its opening frame alone. Inspect its final
+second as well: compilations often cut to an unrelated graphic, phone screen, or
+new source bug before the chosen out-point.
+
 ## Still/motion gate
 
 - No default micro-shake, fake handheld movement, or unexplained zoom.
@@ -55,6 +59,10 @@ Watch the export frame by frame around every source change. Fail on any visible:
 - Translation preserves meaning and original audio remains audible where appropriate.
 - Captions cover every essential line, including emergency calls and cross-talk.
 - Caption baseline stays clear of the subject and player-safe bottom area.
+- Check caption handoffs frame by frame at every narration start and source-audio
+  transition. A source-burned subtitle may appear only after speech begins.
+- Collision-test lower-thirds, evidence labels, program captions, and
+  source-native timestamps together in the rendered composite.
 - No permanent black subtitle bar unless it is part of source evidence.
 
 ## Audio gate
