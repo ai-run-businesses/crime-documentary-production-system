@@ -145,11 +145,30 @@ No shot enters the edit without a function.
 - Use music as an evolving pressure curve, not an uninterrupted wallpaper loop.
 - Lock picture and dialogue before generating music; compose to the exact ending
   frame and specify BPM, rhythmic engine, motif, density changes and ending sting.
+- Normalize candidate cues to a common integrated loudness before setting their
+  program-relative level. Music-model exports can differ by more than 6 dB even
+  when generated from the same composition plan.
+- Prefer one complete composition whose authored sections match the exact story
+  states. Do not reuse arbitrary excerpts from one long cue across unrelated
+  beats; exposed internal trims sound like loops even when crossfaded.
 - Compare at least three full picture-sync auditions at equal integrated loudness.
   Select the least aggressive cue that still creates forward pressure.
 - Duck music for low-level dialogue only when intelligibility requires it.
 - Remove music before a crucial raw line or final factual sentence when silence adds weight.
 - Use transition sound to connect spaces sparingly; do not decorate every cut.
+
+## Stage 8.5 — Caption timing lock
+
+- Treat source transcripts as wording and discovery aids, not final timing data.
+- After picture lock, transcribe the final program with word timestamps and align
+  curated raw-dialogue text to the program audio.
+- Drop an unaligned source-transcript cue rather than displaying a plausible line
+  at the wrong moment. Fill only short uncovered phrases from a second,
+  no-context program pass when confidence is adequate and no curated cue overlaps.
+- Detect repeated-ASR loops before rendering. Do not convert a recognizer loop
+  into five identical on-screen captions or five censor tones.
+- Regenerate the program ASR whenever any edit changes total duration or moves a
+  source excerpt. A previous picture lock's word offsets are not reusable.
 
 ## Stage 9 — QA and review
 

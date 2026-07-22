@@ -57,6 +57,13 @@ Use a cue sheet by story function:
 Do not run one intense cue continuously. Music must have a beginning,
 development and ending that correspond to evidence-state changes.
 
+Normalize generated cue candidates to a common integrated loudness before
+setting their program-relative level; exports from the same model may differ by
+many decibels. Prefer complete exact-duration cues or one structured cue whose
+section durations match the locked edit. Do not scatter arbitrary trims from one
+long file across unrelated beats: exposed internal phrases read as mechanical
+loops even when the edit uses short fades.
+
 ## Listening gate
 
 Approval requires human listening to at least three equal-loudness picture-sync

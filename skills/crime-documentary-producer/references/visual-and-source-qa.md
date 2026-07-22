@@ -72,6 +72,12 @@ body, confession, discovery, or piece of evidence as if it were captured footage
 - Keep the subject and evidentiary details clear.
 - Collision-test captions with lower-thirds and source-native timestamps in the
   final composite rather than approving each layer separately.
+- Treat source transcripts as wording aids. Align curated dialogue to the
+  picture-lock program at word level; remove unaligned coarse-timecode cues.
+- Use a second no-context transcription pass only to fill short uncovered gaps,
+  and reject repeated recognizer loops before rendering.
+- Regenerate final-program timing data after any edit that moves a source range
+  or changes the master duration.
 
 ## Translated and lipsynced archival speech
 

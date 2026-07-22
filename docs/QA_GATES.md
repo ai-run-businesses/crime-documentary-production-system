@@ -68,6 +68,11 @@ new source bug before the chosen out-point.
   from the source, the segment fails until a bilingual listener approves or the
   wording is narrowed.
 - Captions cover every essential line, including emergency calls and cross-talk.
+- Curated source wording is aligned against the final program audio at word level;
+  coarse source-transcript timecodes do not qualify as a timing lock.
+- Unaligned cues and repeated-ASR loops are rejected before overlay rendering.
+- Caption timing is sampled inside every raw-source excerpt, not only at narration
+  starts and scene boundaries.
 - Caption baseline stays clear of the subject and player-safe bottom area.
 - Check caption handoffs frame by frame at every narration start and source-audio
   transition. A source-burned subtitle may appear only after speech begins.
@@ -80,6 +85,10 @@ new source bug before the chosen out-point.
 - No silent tail or missing channel.
 - Narration, dialogue, music, and effects remain intelligible on laptop speakers.
 - Music has a beginning, progression, and ending; it does not loop mechanically.
+- Each recurring score excerpt uses an authored cue section or a complete cue.
+  Arbitrary mid-track trims reused across several story beats fail.
+- Candidate cues are loudness-matched before creative comparison, and the final
+  cue is checked in the picture-sync mix rather than approved as a standalone WAV.
 - Brand and cold-open music was selected from at least three equal-loudness
   picture-sync auditions, not from prompt text or standalone loudness.
 - The cue does not resemble generic ambient/corporate underscore, wait too long
